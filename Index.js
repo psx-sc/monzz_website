@@ -55,7 +55,7 @@ fetch('./config.json')
               },
             ],
             footer: {
-              text: 'Made By 1onlyremo#7312',
+              text: 'Made By MonzzBlox 😜',
             },
           },
         ],
